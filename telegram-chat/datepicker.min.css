@@ -26,7 +26,7 @@
 .datepicker--cell-year{width:25%;height:33.33%}
 .datepickers-container{position:absolute;left:0;top:0}
 @media print{.datepickers-container{display:none}}
-.datepicker{background:#fff;border:1px solid #dbdbdb;box-shadow:0 4px 12px rgba(0,0,0,.15);border-radius:4px;box-sizing:content-box;font-family:Tahoma,sans-serif;font-size:14px;color:#4a4a4a;width:250px;position:absolute;left:-100000px;opacity:0;transition:opacity .3s ease,left 0s .3s,-webkit-transform .3s ease;transition:opacity .3s ease,transform .3s ease,left 0s .3s;transition:opacity .3s ease,transform .3s ease,left 0s .3s,-webkit-transform .3s ease;z-index:1000}
+.datepicker{background:#fff;border:1px solid #dbdbdb;box-shadow:0 4px 12px rgba(0,0,0,.15);border-radius:4px;box-sizing:content-box;font-family:Tahoma,sans-serif;font-size:14px;color:#4a4a4a;width:250px;position:absolute;left:-100000px;opacity:0;transition:opacity .3s ease,left 0s .3s,-webkit-transform .3s ease;transition:opacity .3s ease,transform .3s ease,left 0s .3s;transition:opacity .3s ease,transform .3s ease,left 0s .3s,-webkit-transform .3s ease;z-index: 1000}
 .datepicker.-from-top-{-webkit-transform:translateY(-8px);transform:translateY(-8px)}
 .datepicker.-from-right-{-webkit-transform:translateX(8px);transform:translateX(8px)}
 .datepicker.-from-bottom-{-webkit-transform:translateY(8px);transform:translateY(8px)}
